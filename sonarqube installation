@@ -15,7 +15,7 @@ sudo yum install java-11-amazon-corretto-headless -y
 sudo yum install java-11-amazon-corretto -y
 ------------------------------------------------------
 
-wget url of sonarqube zip file on website of sonar
+wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-8.9.1.44547.zip
 use community version for sonarqube installation
 don't copy new updated version use old versions to install SQ
 
